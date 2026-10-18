@@ -33,15 +33,15 @@ The model classifies about 98% of tumours correctly, with very few false positiv
 
 **Confusion Matrix**
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 **ROC Curve**
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 **Top 10 Influential Features**
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ## Repository Structure
 ```
